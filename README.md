@@ -7,7 +7,7 @@
  
 <a href="https://www.linkedin.com/in/shivam-laidwar/"> Shivam L</a> </a>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+6x+Superbadges&color=f75c7e&pause=1000)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Certified+Salesforce+Developer;Double+Star+Trailhead+Ranger;Trailhead+6x+Superbadges&color=f75c7e&pause=1000)
 
 
 <img src="./img/man_raising_hand.gif" width="30px"/> My Skills:
@@ -32,9 +32,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)  -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theswapnilzambare)](https://github.com/anuraghazra/github-readme-stats)   -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4SHIVam7)](https://github.com/s4SHIVam7/github-readme-stats)   -->
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theswapnilzambare&show_icons=true)   -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4SHIVam7&show_icons=true)   -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/theswapnilzambare)     -->
 
