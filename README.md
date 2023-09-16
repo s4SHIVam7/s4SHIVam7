@@ -1,5 +1,5 @@
 
-![logo](https://media.licdn.com/dms/image/D5616AQGjFr-Nl4edGA/profile-displaybackgroundimage-shrink_350_1400/0/1671548541239?e=1696464000&v=beta&t=w2n8d7taOWqVRl57OW0rvVFAW4-jxlg3PLyxchzv9ro) 
+![logo](https://media.licdn.com/dms/image/D4D16AQGJwHXSRpAuDA/profile-displaybackgroundimage-shrink_350_1400/0/1693091504811?e=1700092800&v=beta&t=Ahhrw0SW-Ib6AqR1w7mrKBxcMJUUBDoOyhC8HFGSOoo) 
 
    Hi Dev's, my name is <b>Shivam Laidwar </b> 
 <!-- #### I am 2x Certified Salesforce Developer | Double Star Trailhead Ranger | 6x Superbadges | 200+ Badges -->
