@@ -50,7 +50,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=s4SHIVam7" alt="s4SHIVam7" /></a> </p>
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=s4SHIVam7)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4SHIVam7&" alt="s4SHIVam7" /></p>
 
