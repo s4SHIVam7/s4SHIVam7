@@ -25,20 +25,6 @@
 
 
 
-<!-- ## Find me here:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/theswapnilzambare)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theswapnilzambare/)    
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/)   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)  -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4SHIVam7)](https://github.com/s4SHIVam7/github-readme-stats)   -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=s4SHIVam7&show_icons=true)   -->
-
-<!-- ![Profile views](https://gpvc.arturio.dev/theswapnilzambare)     -->
-
-<!-- <p align='left'><img src='https://visitor-badge.laobi.icu/badge?page_id=theSwapnilZambare'></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,8 +35,6 @@
 <hr>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=s4SHIVam7" alt="s4SHIVam7" /></a> </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=s4SHIVam7)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4SHIVam7&" alt="s4SHIVam7" /></p>
 
