@@ -29,7 +29,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/slaidwar" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638258077460000000" alt="slaidwar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shivam-laidwar" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="shivam-laidwar" height="30" width="40" /></a
+<a href="https://www.linkedin.com/in/shivam-laidwar" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="shivam-laidwar" height="30" width="40" /></a>
+<a href="https://trailblazer.me/slaidwar" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcCNmVej_uZH1VtvWIs_nMIriQXYW08Vze66dx8yYdnc4ioArPVaLf62Q&s=10" alt="Shivam-Laidwar-Trailhead" height="30" width="40" /></a>
 </p>
 
 <hr>
